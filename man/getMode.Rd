@@ -1,0 +1,18 @@
+\name{getMode}
+\alias{getMode}
+\title{Returns the statistical mode of a vector
+Will return the min mode in the case of ties.}
+\usage{
+  getMode(x)
+}
+\arguments{
+  \item{x}{a vector (numeric or character)}
+}
+\value{
+  a one element vector of the same type as x
+}
+\description{
+  Returns the statistical mode of a vector Will return the
+  min mode in the case of ties.
+}
+

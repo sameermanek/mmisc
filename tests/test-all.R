@@ -1,4 +1,4 @@
 library(testthat)
-library(Mmisc)
+library(mmisc)
 
-test_package("Mmisc")
+test_package("mmisc")
